@@ -1,6 +1,6 @@
-# Agent Zero Notifications
+# ScrAI Notifications
 
-Quick guide for using the notification system in Agent Zero.
+Quick guide for using the notification system in ScrAI.
 
 ## Backend Usage
 

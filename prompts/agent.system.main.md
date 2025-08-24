@@ -1,4 +1,4 @@
-# Agent Zero System Manual
+# ScrAI System Manual
 
 {{ include "./agent.system.main.role.md" }}
 

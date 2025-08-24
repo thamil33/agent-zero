@@ -1,4 +1,4 @@
-# Supported model providers for Agent Zero
+# Supported model providers for ScrAI
 # ---------------------------------------
 #
 # Each provider type ("chat", "embedding") contains a mapping of provider IDs
@@ -53,7 +53,7 @@ chat:
     kwargs:
       extra_headers:
         "HTTP-Referer": "https://agent-zero.ai/"
-        "X-Title": "Agent Zero"
+        "X-Title": "ScrAI"
   sambanova:
     name: Sambanova
     litellm_provider: sambanova
